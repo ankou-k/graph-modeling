@@ -21,3 +21,15 @@
 
 #### Initial set: first 16 verices + 8 of last 16
 - 1921 sets that fully force 
+
+## ILAT 
+### K2 3 clone steps (16 vertices)
+
+#### Initial set size: 8
+- 808 sets that fully forced (out of 16C8 = 12870 sets)
+- all successful sets contained vertex 1 or 2 (or both) as part of the initially forced set
+
+#### Initial set size: 7
+- no sets that fully force
+- max amount of forces for any set is 7, 378 forces that forced that many times
+- partial forces seem to match that of full forces (sets of 8) except with 1 vertex missing
