@@ -1,0 +1,888 @@
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 26 27 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 32 31 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 26 28 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 31 32 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 26 31 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 32 28 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 26 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 31 28 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 27 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 26 31 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 26 32 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 26 28 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 26 27 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 25 31 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 26 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 25 32 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 26 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 25 28 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 27 28 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 32 31 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 27 29 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 32 31 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 27 30 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 32 31 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 28 31 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 32 24 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 28 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 31 24 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 29 31 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 32 27 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 29 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 31 27 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 30 31 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 32 27 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 26 30 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 31 27 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 27 28 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 26 31 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 27 29 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 26 31 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 27 30 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 26 31 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 26 24 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 26 27 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 25 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 26 27 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 26 27 28 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 25 31 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 26 27 29 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 25 31 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 26 27 30 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 25 31 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 26 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 25 24 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 26 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 25 27 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 26 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 25 27 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 27 28 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 31 32 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 27 31 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 32 28 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 27 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 31 28 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 28 29 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 31 32 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 28 30 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 31 32 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 29 31 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 32 28 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 29 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 31 28 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 30 31 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 32 28 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 26 30 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 31 28 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 27 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 26 32 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 27 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 26 28 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 28 29 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 26 32 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 28 30 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 26 32 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 26 28 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 25 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 26 28 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 26 27 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 25 32 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 26 27 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 25 28 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 26 28 29 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 25 32 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 26 28 30 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 25 32 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 26 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 25 28 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 24 26 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 25 28 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 27 28 31 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 32 24 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 27 28 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 31 24 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 27 29 31 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 32 23 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 27 29 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 31 23 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 27 30 31 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 32 23 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 27 30 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 31 23 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 28 29 31 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 32 24 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 28 29 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 31 24 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 28 30 31 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 32 24 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 26 28 30 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 31 24 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 27 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 26 24 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 27 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 26 23 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 27 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 26 23 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 28 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 26 24 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 25 28 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 26 24 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 26 27 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 25 24 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 26 27 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 25 23 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 26 27 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 25 23 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 26 28 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 25 24 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 26 28 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 25 24 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 24 25 26 27 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 22 31 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 24 25 26 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 22 32 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 24 25 26 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 22 28 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 25 26 27 28 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 22 31 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 25 26 27 29 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 22 31 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 25 26 27 30 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 22 31 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 25 26 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 22 24 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 25 26 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 22 27 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 23 25 26 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 22 27 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 24 25 26 27 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 22 32 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 24 25 26 27 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 22 28 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 24 25 26 28 29 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 22 32 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 24 25 26 28 30 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 22 32 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 24 25 26 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 22 28 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 24 25 26 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 22 28 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 25 26 27 28 30 31 
+The ones forcing are 13 1 7 8 11 
+The ones being forced are 32 22 24 23 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 25 26 27 28 30 32 
+The ones forcing are 13 1 7 8 11 
+The ones being forced are 31 22 24 23 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 25 26 27 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 22 24 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 25 26 27 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 22 23 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 25 26 27 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 22 23 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 25 26 28 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 22 24 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 25 26 28 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 22 24 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 25 27 28 30 31 32 
+The ones forcing are 13 1 7 8 11 
+The ones being forced are 26 22 24 23 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 26 27 28 30 31 32 
+The ones forcing are 13 1 7 8 11 
+The ones being forced are 25 22 24 23 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 24 25 26 27 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 21 31 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 24 25 26 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 21 32 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 24 25 26 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 21 28 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 25 26 27 28 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 21 31 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 25 26 27 29 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 21 31 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 25 26 27 30 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 21 31 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 25 26 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 21 24 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 25 26 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 21 27 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 23 25 26 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 21 27 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 24 25 26 27 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 21 32 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 24 25 26 27 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 21 28 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 24 25 26 28 29 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 21 32 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 24 25 26 28 30 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 21 32 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 24 25 26 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 21 28 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 24 25 26 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 21 28 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 25 26 27 28 29 31 
+The ones forcing are 14 1 7 8 11 
+The ones being forced are 32 21 24 23 30 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 25 26 27 28 29 32 
+The ones forcing are 14 1 7 8 11 
+The ones being forced are 31 21 24 23 30 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 25 26 27 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 21 24 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 25 26 27 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 21 23 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 25 26 27 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 21 23 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 25 26 28 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 21 24 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 25 26 28 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 21 24 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 25 27 28 29 31 32 
+The ones forcing are 14 1 7 8 11 
+The ones being forced are 26 21 24 23 30 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 22 26 27 28 29 31 32 
+The ones forcing are 14 1 7 8 11 
+The ones being forced are 25 21 24 23 30 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 25 26 27 28 29 31 32 
+The ones forcing are 14 1 7 8 11 
+The ones being forced are 22 21 24 23 30 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 25 26 27 28 30 31 32 
+The ones forcing are 13 1 7 8 11 
+The ones being forced are 21 22 24 23 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 24 25 26 27 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 20 31 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 24 25 26 28 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 31 20 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 24 25 26 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 20 28 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 24 25 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 26 20 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 24 26 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 25 20 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 25 26 27 28 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 20 31 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 25 26 27 29 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 20 31 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 25 26 27 30 32 
+The ones forcing are 8 1 12 13 7 
+The ones being forced are 20 31 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 25 26 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 20 24 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 25 26 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 20 27 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 23 25 26 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 20 27 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 26 27 28 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 31 20 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 26 27 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 20 28 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 26 28 29 30 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 31 32 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 26 28 29 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 31 30 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 26 28 30 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 31 29 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 26 29 30 31 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 28 32 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 26 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 20 28 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 26 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 20 28 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 27 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 26 20 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 28 29 30 31 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 26 32 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 28 29 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 26 30 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 25 28 30 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 26 29 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 26 27 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 25 20 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 26 28 29 30 31 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 25 32 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 26 28 29 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 25 30 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 24 26 28 30 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 25 29 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 25 26 27 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 20 24 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 25 26 27 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 20 23 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 25 26 27 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 20 23 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 25 26 28 29 30 31 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 24 32 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 25 26 28 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 20 24 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 22 25 26 28 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 20 24 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 23 24 25 26 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 22 20 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 24 25 26 27 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 22 20 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 24 25 26 28 29 30 31 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 22 32 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 24 25 26 28 29 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 22 30 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 24 25 26 28 30 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 22 29 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 21 25 26 27 28 30 31 32 
+The ones forcing are 13 1 7 8 11 
+The ones being forced are 20 22 24 23 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 22 23 24 25 26 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 21 20 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 22 24 25 26 27 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 21 20 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 22 24 25 26 28 29 30 31 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 21 32 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 22 24 25 26 28 29 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 21 30 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 22 24 25 26 28 30 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 21 29 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 22 25 26 27 28 29 31 32 
+The ones forcing are 14 1 7 8 11 
+The ones being forced are 20 21 24 23 30 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 24 25 26 27 31 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 32 19 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 24 25 26 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 19 32 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 24 25 26 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 19 28 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 24 25 27 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 26 19 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 24 26 27 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 25 19 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 26 27 28 31 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 32 19 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 26 27 29 30 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 32 31 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 26 27 29 31 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 32 30 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 26 27 30 31 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 32 29 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 26 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 19 24 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 26 29 30 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 27 31 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 26 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 19 27 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 26 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 19 27 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 27 28 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 26 19 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 27 29 30 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 26 31 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 27 29 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 26 30 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 25 27 30 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 26 29 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 26 27 28 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 25 19 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 26 27 29 30 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 25 31 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 26 27 29 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 25 30 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 26 27 30 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 25 29 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 24 25 26 27 28 31 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 19 32 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 24 25 26 27 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 19 28 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 24 25 26 28 29 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 19 32 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 24 25 26 28 30 31 
+The ones forcing are 7 1 11 13 8 
+The ones being forced are 19 32 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 24 25 26 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 19 28 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 24 25 26 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 19 28 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 25 26 27 28 31 32 
+The ones forcing are 1 7 8 13 14 
+The ones being forced are 19 24 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 25 26 27 29 30 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 23 31 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 25 26 27 29 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 19 23 30 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 25 26 27 30 31 32 
+The ones forcing are 1 8 12 13 7 
+The ones being forced are 19 23 29 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 25 26 28 29 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 19 24 30 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 25 26 28 30 31 32 
+The ones forcing are 1 7 11 13 8 
+The ones being forced are 19 24 29 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 23 24 25 26 27 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 22 19 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 23 25 26 27 28 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 22 19 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 23 25 26 27 29 30 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 22 31 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 23 25 26 27 29 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 22 30 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 23 25 26 27 30 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 22 29 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 25 26 27 28 30 31 32 
+The ones forcing are 13 1 7 8 11 
+The ones being forced are 19 22 24 23 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 22 23 24 25 26 27 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 21 19 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 22 23 25 26 27 28 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 21 19 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 22 23 25 26 27 29 30 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 21 31 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 22 23 25 26 27 29 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 21 30 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 22 23 25 26 27 30 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 21 29 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 22 25 26 27 28 29 31 32 
+The ones forcing are 14 1 7 8 11 
+The ones being forced are 19 21 24 23 30 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 23 24 25 26 27 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 20 19 28 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 23 24 25 26 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 19 20 27 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 23 25 26 27 28 31 32 
+The ones forcing are 8 1 7 13 14 
+The ones being forced are 20 19 24 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 23 25 26 27 29 30 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 20 31 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 23 25 26 27 29 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 20 30 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 23 25 26 27 30 31 32 
+The ones forcing are 8 12 1 13 7 
+The ones being forced are 20 29 19 28 24 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 24 25 26 27 28 31 32 
+The ones forcing are 7 1 8 13 14 
+The ones being forced are 19 20 23 30 29 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 24 25 26 28 29 30 31 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 19 32 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 24 25 26 28 29 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 19 30 20 27 23 
+
+The set is 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 21 22 24 25 26 28 30 31 32 
+The ones forcing are 7 11 1 13 8 
+The ones being forced are 19 29 20 27 23 
+
