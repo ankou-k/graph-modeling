@@ -1,7 +1,7 @@
 % Modifications by Alex Panfilov from multi_zero_force(H,I)
 % Purpose: keep track of forcer-forcee pairs in .txt files for sets that fully force
 
-function [L, numForces] = multi_zero_force_info(H,I)
+function [L] = multi_zero_force_info(H,I)
 % H is graph
 % I is matrix of subsets that are being tried (each row is
 % subset) 
@@ -10,7 +10,6 @@ function [L, numForces] = multi_zero_force_info(H,I)
 % graph to be forced
 %D is the list of forcer, vertices (C is the list of those that were forced)
 L = [];
-numForces = [];
 row=size(I,1);
 %open file to append forcee-forcer pairs
 beForcedFile = fopen('beForcedFile.txt','w');
@@ -18,8 +17,8 @@ forceFile = fopen('forceFile.txt','w');
 for i=1:row
     [t,C,D]=zero_force(H,I(i,:),[],[]);
     if t==1 %truth value - 1 if forced successfully
+        disp("found force");
         L(end+1)=i;
-        numForces(end+1, 1)=size(C,2);
         %print C and D to file
         fprintf(beForcedFile, '%d ', C);
         fprintf(beForcedFile, '\n');
@@ -31,7 +30,8 @@ for i=1:row
     end
 end
 %close file for forcee-forcer pairs
-fclose(force_file);
+fclose(forceFile);
+fclose(beForcedFile);
 end
 
 

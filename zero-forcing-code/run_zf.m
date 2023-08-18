@@ -39,9 +39,9 @@ end
 %n from 1-16, 1 from 17 and 18, m from 19-32, m+n = 15 (16 increases, increase
 v = 1:1:16;
 w = 19:1:32;
-num_choose_v = 10;
-num_choose_w = 9;
-set_size = num_choose_w + num_choose_v;
+num_choose_v = 5;
+num_choose_w = 15; % +17 or +18
+set_size = num_choose_w + num_choose_v + 1;
 combinations_1 = nchoosek(v, num_choose_v);
 combinations_2 = nchoosek(w, num_choose_w);
 %all_combinations = [1:1:33,35:1:64];
@@ -62,41 +62,101 @@ combinations_2 = nchoosek(w, num_choose_w);
 size_1 = size(combinations_1, 1);
 size_2 = size(combinations_2,1);
 total_full_forces = 0;
+total_num_forces = 0;
 top_max_force = 0;
 
-first = repmat(combinations_1(1,:), size_2, 1);
-disp(first);
+%matrix = [combinations_1(1,:) 17];
+%first = repmat(matrix, size_2, 1);
+%disp(first);
 
 %disp(combinations_2);
+partial_forces_file = 'partialForces_K2_ILAT4_temp.txt';
 
-% for i=1:size_1
-%     first = repmat(combinations_1(i, :), size_2, 1);
-%     all_combinations = [first combinations_2];
-%     partial_forces_file = 'partialForces_K2_ILAT4_sz26_temp.txt';
-%     [successfulForces, numForces, maxForces] = multi_zero_force_count(H,all_combinations, 1, ">=", partial_forces_file);
-%     fprintf("Max count of forces: %d \n", maxForces);
-% 
-%     if maxForces > top_max_force
-%         top_max_force = maxForces;
-%     end
-% 
-%     if isempty(successfulForces)
-%         %disp("The successful forces list is empty.");
-%     else
-%         %disp(successfulForces);
-%         %disp(numForces);
-%         fprintf("Just ran multi zero forcing, number of successful forces is %d. \n", size(successfulForces, 2));
-%         total_full_forces = total_full_forces + successfulForces;
-% 
-%     end
-% end
-% fprintf("total successful forces for this batch is %d and max number of forces is %d", total_full_forces, top_max_force);
+for i=1:size_1
+    matrix = [combinations_1(i,:) 17];
+    first = repmat(matrix, size_2, 1);
+    all_combinations = [first combinations_2];
+    [successfulForces, numForces, maxForces] = multi_zero_force_count(H,all_combinations, 12, "==", partial_forces_file);
+    total_num_forces =  total_num_forces + numForces;
+
+    if maxForces > top_max_force
+        fprintf("Max count of forces: %d \n", maxForces);
+        top_max_force = maxForces;
+    end
+
+    if isempty(successfulForces)
+        %disp("The successful forces list is empty.");
+    else
+        %disp(successfulForces);
+        %disp(numForces);
+        fprintf("Just ran multi zero forcing, number of successful forces is %d. \n", size(successfulForces, 2));
+        total_full_forces = total_full_forces + size(successfulForces, 2);
+
+    end
+end
+fprintf("total successful forces for this batch is %d and max number of forces is %d. \n", total_full_forces, top_max_force);
+
+disp("Now running same tests for 18.");
+for i=1:size_1
+    matrix = [combinations_1(i,:) 18];
+    first = repmat(matrix, size_2, 1);
+    all_combinations = [first combinations_2];
+    [successfulForces, numForces, maxForces] = multi_zero_force_count(H,all_combinations, 12, "==", partial_forces_file);
+    
+    total_num_forces =  total_num_forces + numForces;
+
+    if maxForces > top_max_force
+        %fprintf("Max count of forces: %d \n", maxForces);
+        top_max_force = maxForces;
+    end
+
+    if isempty(successfulForces)
+        %disp("The successful forces list is empty.");
+    else
+        %disp(successfulForces);
+        %disp(numForces);
+        fprintf("Just ran multi zero forcing, number of successful forces is %d. \n", size(successfulForces, 2));
+        total_full_forces = total_full_forces + size(successfulForces, 2);
+
+    end
+end
+fprintf("total successful forces for this batch is %d and max number of forces is %d \n", total_full_forces, top_max_force);
+
+num_choose_w = num_choose_w - 1; % +17 AND +18
+combinations_2 = nchoosek(w, num_choose_w);
+size_2 = size(combinations_2,1);
+
+disp("Now running same tests for 17 AND 18.");
+for i=1:size_1
+    matrix = [combinations_1(i,:) 17 18];
+    first = repmat(matrix, size_2, 1);
+    all_combinations = [first combinations_2];
+    [successfulForces, numForces, maxForces] = multi_zero_force_count(H,all_combinations, 12, "==", partial_forces_file);
+    
+    total_num_forces =  total_num_forces + numForces;
+
+    if maxForces > top_max_force
+        %fprintf("Max count of forces: %d \n", maxForces);
+        top_max_force = maxForces;
+    end
+
+    if isempty(successfulForces)
+        %disp("The successful forces list is empty.");
+    else
+        %disp(successfulForces);
+        %disp(numForces);
+        fprintf("Just ran multi zero forcing, number of successful forces is %d. \n", size(successfulForces, 2));
+        total_full_forces = total_full_forces + size(successfulForces, 2);
+
+    end
+end
+fprintf("total successful forces for this batch is %d and max number of forces is %d. \n", total_full_forces, top_max_force);
 
 %INPUT data into class
 % info = RecordingGraphs;
-% info = set_starting_info(info, name, NUM_STAGES, set_size);
+% info = set_starting_info(info, name, NUM_STAGES, set_size, numForces);
 % info = read_force_pairs(info, beForcedFile, forceFile);
-% info = set_num_forces(info, numForces);
+% info = set_num_forces(info, numForces); %not used
 % info = set_rows_forced(info, all_combinations, successfulForces);
 
 %CONCATENATE stats to graph
